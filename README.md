@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there 👋</h1>
 
-<p align='center'>Makrem Ltifi is a Full Stack Developer with expertise in Flutter💙, Angular❤️, and Node.js💛. Passionate about continuous learning and delivering high-quality projects.</p>
+<p align='center'>I am a Software Engineer with expertise in Flutter💙, Angular❤️, and Node.js💛. Passionate about continuous learning and delivering high-quality projects.</p>
 
 <p align='center'>
   <a href="mailto:makrem.mltifi@gmail.com">
